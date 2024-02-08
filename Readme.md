@@ -6,7 +6,8 @@ Read the documentation here:
 
 This repository contains a simple example showcasing the use of nodemailer library to send mails.
 
-The frontend of the program is written under <a href = "https://github.com/aryanraj-544/nodemailer/tree/main/client">Client</a> folder.
+The frontend of the program is written under <a href = "https://github.com/aryanraj-544/nodemailer/tree/main/client">Client</a> folder.<br>
+
 The backend is created and stored under <a href = "https://github.com/aryanraj-544/nodemailer/tree/main/server">Server</a> folder.
 
 To clone the repository use the command:
@@ -29,4 +30,5 @@ For running the backend server use:
 ```
 
 For any feedback, send an email at <a href ="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZQlnxmdZQwlnrXNGFMGRQvrBrnKtwMPVfXSLlCJqKBfDTTXMGdtBLwCLdXhSqjNDFzNV">📧</a>.
-Happy Coding...!😊
+
+## Happy Coding...!😊
